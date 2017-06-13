@@ -20,7 +20,7 @@ setup(
     description = u'Adds a button in the django-ckeditor to load images into the django-filer',
     long_description = long_description,
 
-    install_requires=['django-filer', 'django-ckeditor'],
+    # install_requires=['django-filer', 'django-ckeditor'],
 
     classifiers=(
         'Development Status :: 5 - Production/Stable',

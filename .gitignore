@@ -7,4 +7,5 @@ tests/mydatabase
 *.egg
 .eggs
 .hg
+.idea/
 .hgignore
